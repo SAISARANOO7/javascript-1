@@ -1,0 +1,64 @@
+console.log("Masai School");
+
+console.log("A Transformation in Education");
+
+let name = "Subash Chandra Bose";
+
+console.log(name);
+
+
+var fathersname = "Janaki Nath Bose";
+
+console.log(fathersname)
+
+
+const mothersname = "Prabhabati Bose";
+
+console.log(mothersname);
+
+
+var name = "Noddy";
+
+let age = 75;
+
+
+console.log(name, age);
+
+console.log(typeof (name), typeof (age));
+
+var Name = "James Bond";
+
+var School = "oxford";
+
+var Grade = "1st";
+var Section = "A";
+
+var Roll_no = 007;
+var Education = "ornithologist";
+
+
+console.log("**************   Result    ******************");
+
+
+
+
+console.log("Name",'=','James Bond');
+
+console.log("school",'=','oxford');
+
+console.log("Grade",'=','1st');
+
+console.log("Roll_no",'=','007');
+
+console.log("Education",'=','ornithologist');
+
+
+
+console.log("*****************  Marks Obtained ******************");
+
+
+console.log("Anatomy",'-','98');
+
+console.log("Morphology",'-','96');
+
+console.log("Physiology",'-','99');
